@@ -2,6 +2,7 @@ fss-fake-parallax
 =================
 
 quick tool 4 a [forseesense.com](http://forseesense.com) project
+![anim](fss-fake-parallax.gif)  
 ##Install  
 Place it under
 - Win : Program Files\Adobe\Adobe After Effects CS5\Support Files/ScriptUI Panels/  
@@ -14,8 +15,9 @@ Place it under
 - define the distance value with the slider  
 - then position them  
 
-![anim](fss-fake-parallax.gif)  
+##[Download](https://github.com/fabiantheblind/fss-fake-parallax/archive/master.zip)  
 
+##License:  
 Copyright (c)  2013 Fabian "fabiantheblind" Morón Zirfas  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to  permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
