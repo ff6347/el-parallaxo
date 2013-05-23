@@ -1,7 +1,12 @@
 fss-fake-parallax
 =================
 
-quick tool 4 a forseesense.com project
+quick tool 4 a [forseesense.com](http://forseesense.com) project
+##Install  
+Place it under
+- Win : Program Files\Adobe\Adobe After Effects CS5\Support Files/ScriptUI Panels/  
+- Mac : /Applications/Adobe After Effects CS[VERSION]/Scripts/ScriptUI Panels/  
+
 ##Usage:
 
 - Select your layers you want to be parallaxed  
