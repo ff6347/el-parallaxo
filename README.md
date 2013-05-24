@@ -4,7 +4,7 @@ fss-fake-parallax
 quick tool 4 a [forseesense.com](http://forseesense.com) project. It fakes the parallax effect you get with 3D layers stacked in z space.  
 ##Why?  
 Because sometimes using 3D layers can eat up a lot of render power. This can be applied and baked before rendering.  
-![anim](fss-fake-parallax.gif)  
+![anim](parallaxo.gif)  
 ##Install  
 Place it under
 - Win : Program Files\Adobe\Adobe After Effects CS5\Support Files/ScriptUI Panels/  
