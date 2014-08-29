@@ -1,0 +1,25 @@
+{
+  "name": "el-parallaxo",
+  "title": "faking parallax effect with 2D layers",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabiantheblind/el-parallaxo.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "load-grunt-tasks": "~0.4.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-wrap": "~0.3.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-json-minify": "^0.4.0"
+  },
+  "keywords": [
+    "Adobe",
+    "Extendscript"
+  ]
+}
