@@ -4,5 +4,5 @@ build-tmp/
 *.sublime-project
 node_modules/
 bower_components/
-.DS_Store
 node_modules
+
